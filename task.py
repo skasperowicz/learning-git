@@ -9,3 +9,5 @@ for key, value  in shopping_dict.items():
 print(f"W sumie kupuję {sum} produktów")
 print("Pamiętaj, żeby wziąć razowy chleb")
 print("W warzywniaku nie zapłacisz kartą")
+print("")
+print("Serdeczne pozdrowienia dla Pana Mentora :)")
