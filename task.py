@@ -8,3 +8,4 @@ for key, value  in shopping_dict.items():
     sum = sum + len(value)    
 print(f"W sumie kupuję {sum} produktów")
 print("Pamiętaj, żeby wziąć razowy chleb")
+print("W warzywniaku nie zapłacisz kartą")
